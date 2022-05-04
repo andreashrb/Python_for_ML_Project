@@ -40,5 +40,5 @@ Diese sind wie folgt zu finden:
 Das gesamte Projekt ist daneben in einem Github-Repository abgespeichert und öffentlich zugänglich:
 https://github.com/andreashrb/Python_for_ML_Project
 
-<br>
-Im Folgenden werden daher die vorbereiteten Daten geladen und direkt in den Machine-Learing Part eingestiegen. Lediglich das Business-Understanding soll hier aus Gründen der Verständlichkeit und als Hintergrundinformation noch aufgegriffen werden. Das Deployment ist - wie in der Zielsetzung erwähnt - nicht Bestandteil dieser Arbeit, wird aber in einem kurzen Ausblick mit einigen Überlegungen kurz diskutiert.
+
+Andreas Herb & Sebastian Wölk
