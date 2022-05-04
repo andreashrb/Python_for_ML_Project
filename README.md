@@ -37,8 +37,5 @@ Diese sind wie folgt zu finden:
 
 - **Data Preparation / Feature Engineering**: [Data Prep & Feature Engineering](http://htmlpreview.github.io/?https://github.com/andreashrb/Python_for_ML_Project/blob/main/interim_results/4%20-%20DataPreparation_FeatureEngineering.html)
 
-Das gesamte Projekt ist daneben in einem Github-Repository abgespeichert und öffentlich zugänglich:
-https://github.com/andreashrb/Python_for_ML_Project
-
 
 Andreas Herb & Sebastian Wölk
