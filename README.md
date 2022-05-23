@@ -25,7 +25,7 @@ In der vorliegenden Projektarbeit soll sich am Beispiel von Kupferpreisen der Lo
 
 Die Vorgehensweise der vorliegenden Arbeit orientiert sich grundsätzlich am im Data-Science-Umfeld üblichen Modell des CRISP-DMs. CRISP-DM steht für **C**Ross-**I**ndustry **S**tandard **P**rocess for **D**ata **M**ining. Dieses branchenübergreifende Prozess-Modell wurde ab 1996 im Rahmen eines EU-Förderprojekts entwickelt.
 
-Da jedoch der Schwerpunkt dieses Moduls auf dem Machine-Learning-Part liegt, wurden die weiteren Bestandteile - im Wesentlichen das "Data Understanding / Data Exploration" sowie die "Data Preparation / Feature Engineering" - ausgelagert und in separaten Jupyter-Notebooks in einem Github-Folder abgelegt.
+Da jedoch der Schwerpunkt dieses Moduls auf dem Machine-Learning-Part liegt, wurden die weiteren Bestandteile - im Wesentlichen das "Data Understanding / Data Exploration" sowie die "Data Preparation / Feature Engineering" - ausgelagert und in separaten Jupyter-Notebooks abgelegt.
 
 Diese sind wie folgt zu finden:
 
@@ -37,6 +37,7 @@ Diese sind wie folgt zu finden:
 
 - **Data Preparation / Feature Engineering**: [Data Prep & Feature Engineering](http://htmlpreview.github.io/?https://github.com/andreashrb/Python_for_ML_Project/blob/main/interim_results/4%20-%20DataPreparation_FeatureEngineering.html)
 
+- **Modeling and Evaluation**: [Modeling & Evaluation](http://htmlpreview.github.io/?https://github.com/andreashrb/Python_for_ML_Project/blob/main/5%20-%20Main - DataPreprocessing_DataModelling.html)
 
 
 
