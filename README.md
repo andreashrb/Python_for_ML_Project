@@ -37,7 +37,7 @@ Diese sind wie folgt zu finden:
 
 - **Data Preparation / Feature Engineering**: [Data Prep & Feature Engineering](http://htmlpreview.github.io/?https://github.com/andreashrb/Python_for_ML_Project/blob/main/interim_results/4%20-%20DataPreparation_FeatureEngineering.html)
 
-- **Modeling and Evaluation**: [Modeling & Evaluation](http://htmlpreview.github.io/?https://github.com/andreashrb/Python_for_ML_Project/blob/main/5%20-%20Main - DataPreprocessing_DataModelling.html)
+- **Modeling and Evaluation**: [Modeling & Evaluation](https://htmlpreview.github.io/?https://github.com/andreashrb/Python_for_ML_Project/blob/97e6e3f606fcda66e802abf2ae4351b287484097/Main%20-%20DataPreprocessing_DataModelling.html)
 
 
 
